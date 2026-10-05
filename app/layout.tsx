@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Trip Sender — Email workspace',
+  description: 'Create, automate, and send beautiful Trip emails.',
   generator: 'v0.app',
   icons: {
     icon: [
